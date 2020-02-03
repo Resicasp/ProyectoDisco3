@@ -1,0 +1,126 @@
+@media (min-width: 0px){
+
+	section{
+		background-color: #e8e8e8;
+		width:100%;
+		margin:auto;
+		height:700px;
+		font-family:Minecraft;
+		box-shadow: 2px 2px 3px #666666;
+		-webkit-box-shadow: 2px 2px 3px #666666;
+		-moz-box-shadow: 2px 2px 3px #666666;
+	}
+	
+	
+}
+
+@media (min-width: 480px){
+	section{
+		background-color: #e8e8e8;
+		width:100%;
+		margin:auto;
+		height:700px;
+		font-family:Minecraft;
+		box-shadow: 2px 2px 3px #666666;
+		-webkit-box-shadow: 2px 2px 3px #666666;
+		-moz-box-shadow: 2px 2px 3px #666666;
+	}
+
+}
+
+@media (min-width: 700px){
+	section{
+	background-color: #e8e8e8;
+	width:100%;
+	margin:auto;
+	height:700px;
+	font-family:Minecraft;
+	box-shadow: 2px 2px 3px #666666;
+	-webkit-box-shadow: 2px 2px 3px #666666;
+	-moz-box-shadow: 2px 2px 3px #666666;
+	}
+}
+
+@media (min-width: 815px){
+	section{
+	background-color: #e8e8e8;
+	width:100%;
+	margin:auto;
+	height:700px;
+	font-family:Minecraft;
+	box-shadow: 2px 2px 3px #666666;
+	-webkit-box-shadow: 2px 2px 3px #666666;
+	-moz-box-shadow: 2px 2px 3px #666666;
+	}
+
+}
+
+@media (min-width: 1020px){
+	section{
+	background-color: #e8e8e8;
+	width:100%;
+	margin:auto;
+	height:700px;
+	font-family:Minecraft;
+	box-shadow: 2px 2px 3px #666666;
+	-webkit-box-shadow: 2px 2px 3px #666666;
+	-moz-box-shadow: 2px 2px 3px #666666;
+	}
+}
+
+@media (min-width: 1200px){		
+	section{
+	background-color: #e8e8e8;
+	width:100%;
+	margin:auto;
+	height:700px;
+	font-family:Minecraft;
+	box-shadow: 2px 2px 3px #666666;
+	-webkit-box-shadow: 2px 2px 3px #666666;
+	-moz-box-shadow: 2px 2px 3px #666666;
+	}
+}
+
+	
+
+
+
+
+//----Pseudo Elementos-----
+p:after { 
+content: "."; 
+}
+
+
+::-moz-selection { 
+color: gold;  background: red; 
+}
+::selection { 
+color: gold;  background: red;
+} 
+
+
+.ini{
+	position: relative;
+	float: right !important;
+	
+} 	
+
+
+	
+@font-face{
+ 	font-family:"Mansalva";
+	src:url(../fonts/Mansalva-Regular.ttf);		   
+}
+
+
+
+@font-face{
+	font-family:"DancingScript";
+	src:url(../fonts/DancingScript-Regular.ttf);		   
+}	
+
+
+
+
+

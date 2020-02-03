@@ -1,0 +1,16 @@
+h2 {
+  font-family: Mansalva;
+}
+span {
+  font-family: DancingScript;
+}
+p {
+  margin: 40px;
+  text-align: justify;
+}
+input{
+	margin: 3px;
+}
+select{
+	margin: 3px;
+}
